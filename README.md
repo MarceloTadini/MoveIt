@@ -33,6 +33,3 @@
 * Inicie o servidor com yarn dev
 * Acesse o [localhost:3000](http://localhost:3000/) do seu navegador.
 
-## Vídeo do funcionamento :clapper:
-
-[![Vídeo explicativo do site](http://img.youtube.com/vi/ckj8Q_eOHs0/0.jpg)](http://www.youtube.com/watch?v=ckj8Q_eOHs0 "Vídeo explicativo")
