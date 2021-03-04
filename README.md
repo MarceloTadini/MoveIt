@@ -1,6 +1,6 @@
 # MoveIt
  
-### Este projeto foi desenvolvido juntamente com a Rockseat na Next Level Week 4.São utilizadas as ferramentas Css, HTML, juntamente com TypeScript para a construção de uma página Web. Na página, vários conceitos e estratégias de programação são aplicadas e é utilizada a biblioteca React para estilização.
+### Este projeto foi desenvolvido juntamente com a Rockseat na Next Level Week 4. São utilizadas as ferramentas Css, HTML, juntamente com TypeScript para a construção de uma página Web. Na página, vários conceitos e estratégias de programação são aplicadas e é utilizada a biblioteca React para estilização.
 
 
 
