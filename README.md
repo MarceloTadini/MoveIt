@@ -1,4 +1,4 @@
-# MoveIt
+![](https://raw.githubusercontent.com/rocketseat-education/nlw-04-reactjs/main/.github/logo.png)
  
 ### Este projeto foi desenvolvido juntamente com a Rockseat na Next Level Week 4. São utilizadas as ferramentas Css, HTML, juntamente com TypeScript para a construção de uma página Web. Na página, vários conceitos e estratégias de programação são aplicadas e é utilizada a biblioteca React para estilização.
 
@@ -26,6 +26,12 @@
 * Css 3
 * React
 * TypeScript
+
+## Como executar :rocket:
+* Clone o repositório
+* Instale as dependências com yarn
+* Inicie o servidor com yarn dev
+* Acesse o [localhost:3000](http://localhost:3000/) do seu navegador.
 
 ## Vídeo do funcionamento :clapper:
 
